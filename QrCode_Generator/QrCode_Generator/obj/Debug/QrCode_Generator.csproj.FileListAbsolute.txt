@@ -1,0 +1,10 @@
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\bin\Debug\QrCode_Generator.exe.config
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\bin\Debug\QrCode_Generator.exe
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\bin\Debug\QrCode_Generator.pdb
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\bin\Debug\Gma.QrCodeNet.Encoding.dll
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\obj\Debug\QrCode_Generator.csprojResolveAssemblyReference.cache
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\obj\Debug\QrCode_Generator.Form1.resources
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\obj\Debug\QrCode_Generator.Properties.Resources.resources
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\obj\Debug\QrCode_Generator.csproj.GenerateResource.Cache
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\obj\Debug\QrCode_Generator.exe
+c:\users\devart\documents\visual studio 2012\Projects\QrCode_Generator\QrCode_Generator\obj\Debug\QrCode_Generator.pdb
